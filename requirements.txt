@@ -1,0 +1,7 @@
+spotipy
+pandas
+numpy
+matplotlib
+seaborn
+altair
+pillow
