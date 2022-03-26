@@ -17,5 +17,6 @@ A Recommendation System to find top 20 songs from 2 inputs
 * seaborn
 * altair
 * pillow
+* streamlit
 
 `pip install -r requirements.txt `
