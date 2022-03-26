@@ -9,7 +9,7 @@ A Recommendation System to find top 20 songs from 2 inputs
 
 
 ##### Files to install:
-* Makes sure using python 3.9.7
+* Makes sure using python 3.9
 * spotipy
 * pandas
 * numpy
