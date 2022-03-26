@@ -19,4 +19,5 @@ A Recommendation System to find top 20 songs from 2 inputs
 * pillow
 * streamlit
 
-`pip install -r requirements.txt `
+``` pip install -r requirements.txt ```
+``` streamlit run {file_path}\app.py [ARGUMENTS] ```
