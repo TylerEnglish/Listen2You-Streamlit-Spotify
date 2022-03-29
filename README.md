@@ -21,7 +21,7 @@ A Recommendation System to find top 20 songs from 2 inputs
 
 ``` pip install -r requirements.txt ```
 
-``` streamlit run {file_path}\app.py [ARGUMENTS] ```
+``` streamlit run ({file_path} for app.py) [ARGUMENTS] ```
 
 
 ### Make sure before you try to use this, go to this link
